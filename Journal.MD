@@ -1,0 +1,3 @@
+I looked into what I would use to power this, and display images. I settled on the RPI zero 2 w since it looked nice with its ui capabilities and size. I looked for oleds and realized there arent really big oleds that arent like $220 so im just going to go for a 128x128 monochrome display, and make it BW. would fit the theme. I Started on the pcb and i made symbols for the oled and the rpi, matching them with the datasheets.
+
+~ 1 hr 45 minutes
